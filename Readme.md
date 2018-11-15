@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [PopupWindowUpdateSizeViewController.cs](./CS/PopupSizeExample.Module.Web/Controllers/PopupWindowUpdateSizeViewController.cs) (VB: [PopupWindowUpdateSizeViewController.vb](./VB/PopupSizeExample.Module.Web/Controllers/PopupWindowUpdateSizeViewController.vb))
+* [PopupDemoObject.cs](./CS/PopupSizeExample.Module/BusinessObjects/PopupDemoObject.cs) (VB: [PopupDemoObject.vb](./VB/PopupSizeExample.Module/BusinessObjects/PopupDemoObject.vb))
+* [Default.aspx.cs](./CS/PopupSizeExample.Web/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/PopupSizeExample.Web/Default.aspx.vb))
+<!-- default file list end -->
 # How to: Adjust the size of pop up dialogs
 
 
