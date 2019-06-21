@@ -7,6 +7,9 @@
 * [Global.asax.cs](./CS/PopupSizeExample.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/PopupSizeExample.Web/Global.asax.vb))
 <!-- default file list end -->
 # How to: Adjust the size of pop up dialogs
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4208)**
+<!-- run online end -->
 
 
 <p><strong>ASP.NET</strong><br>A complete description for the  ASP.NET version is available in the <a href="http://documentation.devexpress.com/#Xaf/CustomDocument3456"><u>How to: Adjust the Size of Pop up Dialogs displayed in ASP.NET Applications</u></a> topic.</p>
