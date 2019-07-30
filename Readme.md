@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to: Adjust the size of pop up dialogs
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4208)**
+**[[Run Online]](https://codecentral.devexpress.com/e4208/)**
 <!-- run online end -->
 
 
