@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<Tests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Date="5/31/2013">
-  <Test Name="PopupSizeTest" ApplicationName="PopupSizeExample.Web" Result="Warning" Elapsed="00:00:00.3705980" Started="5/31/2013 12:40:31 PM" MachineName="BELYAKOV-SV-N" IP="172.22.4.51">
-    <Error Type="System.Exception">
-      <Message><![CDATA[Cannot find the '' adapter for the 'PopupSizeExample.Web' application]]></Message>
-    </Error>
-  </Test>
-</Tests>
